@@ -1,7 +1,0 @@
-
-# Code to multiply and add numbers
-a = 5
-b = 10
-result = a * b + a
-result
-    
